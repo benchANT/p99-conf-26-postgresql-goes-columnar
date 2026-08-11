@@ -1,0 +1,1079 @@
+time,measurement,field,value,application,batchId,configurationId,executionCounter,host,projectId,userId
+2026-08-07 12:55:20+00:00,system,load1,0.0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:55:30+00:00,system,load1,0.15,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:55:40+00:00,system,load1,0.28,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:55:50+00:00,system,load1,0.39,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:56:00+00:00,system,load1,0.49,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:56:10+00:00,system,load1,0.57,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:56:20+00:00,system,load1,0.63,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:56:30+00:00,system,load1,0.84,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:56:40+00:00,system,load1,0.87,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:56:50+00:00,system,load1,0.89,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:57:00+00:00,system,load1,0.91,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:57:10+00:00,system,load1,0.92,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:57:20+00:00,system,load1,1.16,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:57:30+00:00,system,load1,1.21,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:57:40+00:00,system,load1,1.18,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:57:50+00:00,system,load1,1.15,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:58:00+00:00,system,load1,1.21,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:58:10+00:00,system,load1,1.33,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:58:20+00:00,system,load1,1.28,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:58:30+00:00,system,load1,1.24,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:58:40+00:00,system,load1,1.2,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:58:50+00:00,system,load1,1.17,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:59:00+00:00,system,load1,1.14,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:59:10+00:00,system,load1,1.19,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:59:20+00:00,system,load1,1.16,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:59:30+00:00,system,load1,1.14,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:59:40+00:00,system,load1,1.13,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:59:50+00:00,system,load1,1.11,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:00:00+00:00,system,load1,1.09,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:00:10+00:00,system,load1,1.16,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:00:20+00:00,system,load1,1.29,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:00:30+00:00,system,load1,1.32,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:00:40+00:00,system,load1,1.34,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:00:50+00:00,system,load1,1.59,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:01:00+00:00,system,load1,1.73,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:01:10+00:00,system,load1,1.76,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:01:20+00:00,system,load1,1.72,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:01:30+00:00,system,load1,1.69,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:01:40+00:00,system,load1,1.74,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:01:50+00:00,system,load1,1.7,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:02:00+00:00,system,load1,1.66,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:02:10+00:00,system,load1,1.64,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:02:20+00:00,system,load1,1.54,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:02:30+00:00,system,load1,1.46,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:02:40+00:00,system,load1,1.39,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:02:50+00:00,system,load1,1.33,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:03:00+00:00,system,load1,1.28,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:03:10+00:00,system,load1,1.23,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:03:20+00:00,system,load1,1.2,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:03:30+00:00,system,load1,1.17,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:03:40+00:00,system,load1,1.14,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:03:50+00:00,system,load1,1.12,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:04:00+00:00,system,load1,1.1,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:04:10+00:00,system,load1,1.08,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:04:20+00:00,system,load1,1.07,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:04:30+00:00,system,load1,1.06,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:04:40+00:00,system,load1,1.05,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:04:50+00:00,system,load1,1.04,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:05:00+00:00,system,load1,1.04,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:05:10+00:00,system,load1,1.03,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:05:20+00:00,system,load1,1.02,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:05:30+00:00,system,load1,1.02,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:05:40+00:00,system,load1,1.02,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:05:50+00:00,system,load1,1.01,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:06:00+00:00,system,load1,1.08,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:06:10+00:00,system,load1,1.07,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:06:20+00:00,system,load1,1.06,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:06:30+00:00,system,load1,1.05,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:06:40+00:00,system,load1,1.04,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:06:50+00:00,system,load1,1.04,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:07:00+00:00,system,load1,1.03,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:07:10+00:00,system,load1,1.02,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:07:20+00:00,system,load1,1.02,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:07:30+00:00,system,load1,1.02,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:07:40+00:00,system,load1,1.01,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:07:50+00:00,system,load1,1.01,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:08:00+00:00,system,load1,1.01,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:08:10+00:00,system,load1,1.09,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:08:20+00:00,system,load1,1.07,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:08:30+00:00,system,load1,1.06,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:08:40+00:00,system,load1,1.05,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:08:50+00:00,system,load1,1.12,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:09:00+00:00,system,load1,1.1,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:09:10+00:00,system,load1,1.08,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:09:20+00:00,system,load1,1.07,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:09:30+00:00,system,load1,1.06,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:09:40+00:00,system,load1,1.05,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:09:50+00:00,system,load1,1.04,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:10:00+00:00,system,load1,1.03,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:10:10+00:00,system,load1,1.03,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:10:20+00:00,system,load1,1.02,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:10:30+00:00,system,load1,1.1,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:10:40+00:00,system,load1,1.08,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:10:50+00:00,system,load1,1.07,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:11:00+00:00,system,load1,1.06,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:11:10+00:00,system,load1,1.05,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:11:20+00:00,system,load1,1.04,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:11:30+00:00,system,load1,1.04,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:11:40+00:00,system,load1,1.11,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:11:50+00:00,system,load1,1.09,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:12:00+00:00,system,load1,1.08,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:12:10+00:00,system,load1,1.07,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:12:20+00:00,system,load1,1.06,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:12:30+00:00,system,load1,1.05,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:12:40+00:00,system,load1,1.04,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:12:50+00:00,system,load1,1.03,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:13:00+00:00,system,load1,1.03,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:13:10+00:00,system,load1,1.02,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:13:20+00:00,system,load1,1.09,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:13:30+00:00,system,load1,1.16,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:13:40+00:00,system,load1,1.29,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:13:50+00:00,system,load1,1.4,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:14:00+00:00,system,load1,1.34,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:14:10+00:00,system,load1,1.36,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:14:20+00:00,system,load1,1.31,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:14:30+00:00,system,load1,1.26,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:14:40+00:00,system,load1,1.38,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:14:50+00:00,system,load1,1.48,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:15:00+00:00,system,load1,1.56,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:15:10+00:00,system,load1,1.63,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:15:20+00:00,system,load1,1.68,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:15:30+00:00,system,load1,1.73,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:15:40+00:00,system,load1,1.77,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:15:50+00:00,system,load1,1.81,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:16:00+00:00,system,load1,1.84,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:16:10+00:00,system,load1,1.86,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:16:20+00:00,system,load1,1.89,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:16:30+00:00,system,load1,1.9,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:16:40+00:00,system,load1,1.85,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:16:50+00:00,system,load1,1.87,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:17:00+00:00,system,load1,1.89,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:17:10+00:00,system,load1,1.91,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:17:20+00:00,system,load1,1.92,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:17:30+00:00,system,load1,1.93,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:17:40+00:00,system,load1,1.94,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:17:50+00:00,system,load1,1.95,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:18:00+00:00,system,load1,1.96,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:18:10+00:00,system,load1,1.97,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:18:20+00:00,system,load1,1.97,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:18:30+00:00,system,load1,1.98,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:18:40+00:00,system,load1,1.83,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:18:50+00:00,system,load1,1.7,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:19:00+00:00,system,load1,1.59,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:19:10+00:00,system,load1,1.5,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:19:20+00:00,system,load1,1.42,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:19:30+00:00,system,load1,1.36,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:19:40+00:00,system,load1,1.3,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:19:50+00:00,system,load1,1.26,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:20:00+00:00,system,load1,1.22,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:20:10+00:00,system,load1,1.18,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:20:20+00:00,system,load1,1.15,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:20:30+00:00,system,load1,1.13,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:20:40+00:00,system,load1,1.11,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:20:50+00:00,system,load1,1.01,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:55:20+00:00,system,load15,0.17,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:55:30+00:00,system,load15,0.18,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:55:40+00:00,system,load15,0.19,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:55:50+00:00,system,load15,0.2,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:56:00+00:00,system,load15,0.21,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:56:10+00:00,system,load15,0.22,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:56:20+00:00,system,load15,0.23,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:56:30+00:00,system,load15,0.25,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:56:40+00:00,system,load15,0.25,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:56:50+00:00,system,load15,0.26,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:57:00+00:00,system,load15,0.27,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:57:10+00:00,system,load15,0.28,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:57:20+00:00,system,load15,0.3,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:57:30+00:00,system,load15,0.32,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:57:40+00:00,system,load15,0.33,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:57:50+00:00,system,load15,0.33,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:58:00+00:00,system,load15,0.35,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:58:10+00:00,system,load15,0.36,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:58:20+00:00,system,load15,0.37,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:58:30+00:00,system,load15,0.38,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:58:40+00:00,system,load15,0.39,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:58:50+00:00,system,load15,0.39,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:59:00+00:00,system,load15,0.4,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:59:10+00:00,system,load15,0.41,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:59:20+00:00,system,load15,0.42,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:59:30+00:00,system,load15,0.42,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:59:40+00:00,system,load15,0.43,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:59:50+00:00,system,load15,0.43,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:00:00+00:00,system,load15,0.44,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:00:10+00:00,system,load15,0.45,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:00:20+00:00,system,load15,0.47,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:00:30+00:00,system,load15,0.48,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:00:40+00:00,system,load15,0.49,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:00:50+00:00,system,load15,0.52,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:01:00+00:00,system,load15,0.54,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:01:10+00:00,system,load15,0.56,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:01:20+00:00,system,load15,0.57,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:01:30+00:00,system,load15,0.58,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:01:40+00:00,system,load15,0.6,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:01:50+00:00,system,load15,0.61,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:02:00+00:00,system,load15,0.62,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:02:10+00:00,system,load15,0.63,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:02:20+00:00,system,load15,0.63,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:02:30+00:00,system,load15,0.64,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:02:40+00:00,system,load15,0.64,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:02:50+00:00,system,load15,0.64,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:03:00+00:00,system,load15,0.65,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:03:10+00:00,system,load15,0.65,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:03:20+00:00,system,load15,0.66,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:03:30+00:00,system,load15,0.66,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:03:40+00:00,system,load15,0.66,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:03:50+00:00,system,load15,0.67,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:04:00+00:00,system,load15,0.67,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:04:10+00:00,system,load15,0.68,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:04:20+00:00,system,load15,0.68,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:04:30+00:00,system,load15,0.68,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:04:40+00:00,system,load15,0.69,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:04:50+00:00,system,load15,0.69,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:05:00+00:00,system,load15,0.69,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:05:10+00:00,system,load15,0.7,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:05:20+00:00,system,load15,0.7,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:05:30+00:00,system,load15,0.71,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:05:40+00:00,system,load15,0.71,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:05:50+00:00,system,load15,0.71,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:06:00+00:00,system,load15,0.72,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:06:10+00:00,system,load15,0.73,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:06:20+00:00,system,load15,0.73,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:06:30+00:00,system,load15,0.73,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:06:40+00:00,system,load15,0.74,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:06:50+00:00,system,load15,0.74,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:07:00+00:00,system,load15,0.74,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:07:10+00:00,system,load15,0.75,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:07:20+00:00,system,load15,0.75,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:07:30+00:00,system,load15,0.75,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:07:40+00:00,system,load15,0.75,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:07:50+00:00,system,load15,0.76,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:08:00+00:00,system,load15,0.76,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:08:10+00:00,system,load15,0.77,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:08:20+00:00,system,load15,0.77,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:08:30+00:00,system,load15,0.77,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:08:40+00:00,system,load15,0.78,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:08:50+00:00,system,load15,0.79,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:09:00+00:00,system,load15,0.79,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:09:10+00:00,system,load15,0.79,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:09:20+00:00,system,load15,0.79,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:09:30+00:00,system,load15,0.8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:09:40+00:00,system,load15,0.8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:09:50+00:00,system,load15,0.8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:10:00+00:00,system,load15,0.81,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:10:10+00:00,system,load15,0.81,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:10:20+00:00,system,load15,0.81,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:10:30+00:00,system,load15,0.82,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:10:40+00:00,system,load15,0.82,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:10:50+00:00,system,load15,0.82,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:11:00+00:00,system,load15,0.83,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:11:10+00:00,system,load15,0.83,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:11:20+00:00,system,load15,0.83,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:11:30+00:00,system,load15,0.83,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:11:40+00:00,system,load15,0.84,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:11:50+00:00,system,load15,0.84,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:12:00+00:00,system,load15,0.84,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:12:10+00:00,system,load15,0.84,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:12:20+00:00,system,load15,0.85,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:12:30+00:00,system,load15,0.85,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:12:40+00:00,system,load15,0.85,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:12:50+00:00,system,load15,0.85,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:13:00+00:00,system,load15,0.85,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:13:10+00:00,system,load15,0.86,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:13:20+00:00,system,load15,0.86,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:13:30+00:00,system,load15,0.87,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:13:40+00:00,system,load15,0.88,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:13:50+00:00,system,load15,0.9,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:14:00+00:00,system,load15,0.9,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:14:10+00:00,system,load15,0.91,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:14:20+00:00,system,load15,0.91,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:14:30+00:00,system,load15,0.91,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:14:40+00:00,system,load15,0.92,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:14:50+00:00,system,load15,0.93,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:15:00+00:00,system,load15,0.94,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:15:10+00:00,system,load15,0.96,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:15:20+00:00,system,load15,0.97,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:15:30+00:00,system,load15,0.98,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:15:40+00:00,system,load15,0.99,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:15:50+00:00,system,load15,1.0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:16:00+00:00,system,load15,1.01,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:16:10+00:00,system,load15,1.02,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:16:20+00:00,system,load15,1.04,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:16:30+00:00,system,load15,1.05,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:16:40+00:00,system,load15,1.05,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:16:50+00:00,system,load15,1.06,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:17:00+00:00,system,load15,1.07,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:17:10+00:00,system,load15,1.08,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:17:20+00:00,system,load15,1.09,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:17:30+00:00,system,load15,1.1,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:17:40+00:00,system,load15,1.11,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:17:50+00:00,system,load15,1.12,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:18:00+00:00,system,load15,1.13,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:18:10+00:00,system,load15,1.14,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:18:20+00:00,system,load15,1.15,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:18:30+00:00,system,load15,1.16,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:18:40+00:00,system,load15,1.16,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:18:50+00:00,system,load15,1.16,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:19:00+00:00,system,load15,1.16,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:19:10+00:00,system,load15,1.15,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:19:20+00:00,system,load15,1.15,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:19:30+00:00,system,load15,1.15,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:19:40+00:00,system,load15,1.15,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:19:50+00:00,system,load15,1.15,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:20:00+00:00,system,load15,1.14,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:20:10+00:00,system,load15,1.14,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:20:20+00:00,system,load15,1.14,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:20:30+00:00,system,load15,1.14,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:20:40+00:00,system,load15,1.14,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:20:50+00:00,system,load15,1.13,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:55:20+00:00,system,load5,0.0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:55:30+00:00,system,load5,0.03,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:55:40+00:00,system,load5,0.07,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:55:50+00:00,system,load5,0.1,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:56:00+00:00,system,load5,0.13,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:56:10+00:00,system,load5,0.16,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:56:20+00:00,system,load5,0.18,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:56:30+00:00,system,load5,0.24,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:56:40+00:00,system,load5,0.27,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:56:50+00:00,system,load5,0.29,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:57:00+00:00,system,load5,0.32,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:57:10+00:00,system,load5,0.34,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:57:20+00:00,system,load5,0.41,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:57:30+00:00,system,load5,0.45,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:57:40+00:00,system,load5,0.47,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:57:50+00:00,system,load5,0.48,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:58:00+00:00,system,load5,0.52,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:58:10+00:00,system,load5,0.57,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:58:20+00:00,system,load5,0.58,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:58:30+00:00,system,load5,0.6,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:58:40+00:00,system,load5,0.61,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:58:50+00:00,system,load5,0.62,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:59:00+00:00,system,load5,0.64,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:59:10+00:00,system,load5,0.67,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:59:20+00:00,system,load5,0.68,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:59:30+00:00,system,load5,0.69,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:59:40+00:00,system,load5,0.69,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:59:50+00:00,system,load5,0.7,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:00:00+00:00,system,load5,0.71,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:00:10+00:00,system,load5,0.74,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:00:20+00:00,system,load5,0.78,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:00:30+00:00,system,load5,0.81,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:00:40+00:00,system,load5,0.83,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:00:50+00:00,system,load5,0.9,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:01:00+00:00,system,load5,0.95,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:01:10+00:00,system,load5,0.99,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:01:20+00:00,system,load5,1.01,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:01:30+00:00,system,load5,1.02,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:01:40+00:00,system,load5,1.05,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:01:50+00:00,system,load5,1.07,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:02:00+00:00,system,load5,1.08,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:02:10+00:00,system,load5,1.1,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:02:20+00:00,system,load5,1.09,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:02:30+00:00,system,load5,1.09,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:02:40+00:00,system,load5,1.09,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:02:50+00:00,system,load5,1.08,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:03:00+00:00,system,load5,1.08,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:03:10+00:00,system,load5,1.08,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:03:20+00:00,system,load5,1.07,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:03:30+00:00,system,load5,1.07,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:03:40+00:00,system,load5,1.07,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:03:50+00:00,system,load5,1.07,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:04:00+00:00,system,load5,1.06,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:04:10+00:00,system,load5,1.06,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:04:20+00:00,system,load5,1.06,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:04:30+00:00,system,load5,1.06,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:04:40+00:00,system,load5,1.05,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:04:50+00:00,system,load5,1.05,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:05:00+00:00,system,load5,1.05,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:05:10+00:00,system,load5,1.05,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:05:20+00:00,system,load5,1.05,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:05:30+00:00,system,load5,1.04,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:05:40+00:00,system,load5,1.04,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:05:50+00:00,system,load5,1.04,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:06:00+00:00,system,load5,1.06,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:06:10+00:00,system,load5,1.05,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:06:20+00:00,system,load5,1.05,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:06:30+00:00,system,load5,1.05,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:06:40+00:00,system,load5,1.05,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:06:50+00:00,system,load5,1.05,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:07:00+00:00,system,load5,1.04,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:07:10+00:00,system,load5,1.04,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:07:20+00:00,system,load5,1.04,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:07:30+00:00,system,load5,1.04,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:07:40+00:00,system,load5,1.04,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:07:50+00:00,system,load5,1.03,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:08:00+00:00,system,load5,1.03,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:08:10+00:00,system,load5,1.05,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:08:20+00:00,system,load5,1.04,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:08:30+00:00,system,load5,1.04,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:08:40+00:00,system,load5,1.04,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:08:50+00:00,system,load5,1.06,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:09:00+00:00,system,load5,1.05,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:09:10+00:00,system,load5,1.05,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:09:20+00:00,system,load5,1.05,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:09:30+00:00,system,load5,1.05,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:09:40+00:00,system,load5,1.05,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:09:50+00:00,system,load5,1.04,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:10:00+00:00,system,load5,1.04,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:10:10+00:00,system,load5,1.04,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:10:20+00:00,system,load5,1.04,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:10:30+00:00,system,load5,1.05,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:10:40+00:00,system,load5,1.05,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:10:50+00:00,system,load5,1.05,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:11:00+00:00,system,load5,1.05,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:11:10+00:00,system,load5,1.05,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:11:20+00:00,system,load5,1.04,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:11:30+00:00,system,load5,1.04,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:11:40+00:00,system,load5,1.06,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:11:50+00:00,system,load5,1.06,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:12:00+00:00,system,load5,1.05,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:12:10+00:00,system,load5,1.05,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:12:20+00:00,system,load5,1.05,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:12:30+00:00,system,load5,1.05,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:12:40+00:00,system,load5,1.05,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:12:50+00:00,system,load5,1.04,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:13:00+00:00,system,load5,1.04,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:13:10+00:00,system,load5,1.04,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:13:20+00:00,system,load5,1.05,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:13:30+00:00,system,load5,1.07,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:13:40+00:00,system,load5,1.1,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:13:50+00:00,system,load5,1.13,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:14:00+00:00,system,load5,1.13,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:14:10+00:00,system,load5,1.14,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:14:20+00:00,system,load5,1.13,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:14:30+00:00,system,load5,1.13,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:14:40+00:00,system,load5,1.16,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:14:50+00:00,system,load5,1.19,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:15:00+00:00,system,load5,1.21,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:15:10+00:00,system,load5,1.24,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:15:20+00:00,system,load5,1.27,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:15:30+00:00,system,load5,1.29,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:15:40+00:00,system,load5,1.31,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:15:50+00:00,system,load5,1.34,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:16:00+00:00,system,load5,1.36,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:16:10+00:00,system,load5,1.38,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:16:20+00:00,system,load5,1.4,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:16:30+00:00,system,load5,1.42,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:16:40+00:00,system,load5,1.42,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:16:50+00:00,system,load5,1.44,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:17:00+00:00,system,load5,1.46,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:17:10+00:00,system,load5,1.48,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:17:20+00:00,system,load5,1.5,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:17:30+00:00,system,load5,1.52,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:17:40+00:00,system,load5,1.53,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:17:50+00:00,system,load5,1.55,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:18:00+00:00,system,load5,1.56,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:18:10+00:00,system,load5,1.58,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:18:20+00:00,system,load5,1.59,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:18:30+00:00,system,load5,1.61,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:18:40+00:00,system,load5,1.59,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:18:50+00:00,system,load5,1.57,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:19:00+00:00,system,load5,1.55,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:19:10+00:00,system,load5,1.53,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:19:20+00:00,system,load5,1.51,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:19:30+00:00,system,load5,1.49,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:19:40+00:00,system,load5,1.48,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:19:50+00:00,system,load5,1.46,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:20:00+00:00,system,load5,1.44,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:20:10+00:00,system,load5,1.43,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:20:20+00:00,system,load5,1.41,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:20:30+00:00,system,load5,1.4,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:20:40+00:00,system,load5,1.39,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:20:50+00:00,system,load5,1.36,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:55:20+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:55:30+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:55:40+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:55:50+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:56:00+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:56:10+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:56:20+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:56:30+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:56:40+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:56:50+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:57:00+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:57:10+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:57:20+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:57:30+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:57:40+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:57:50+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:58:00+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:58:10+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:58:20+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:58:30+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:58:40+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:58:50+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:59:00+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:59:10+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:59:20+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:59:30+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:59:40+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:59:50+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:00:00+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:00:10+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:00:20+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:00:30+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:00:40+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:00:50+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:01:00+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:01:10+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:01:20+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:01:30+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:01:40+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:01:50+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:02:00+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:02:10+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:02:20+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:02:30+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:02:40+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:02:50+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:03:00+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:03:10+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:03:20+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:03:30+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:03:40+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:03:50+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:04:00+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:04:10+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:04:20+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:04:30+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:04:40+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:04:50+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:05:00+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:05:10+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:05:20+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:05:30+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:05:40+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:05:50+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:06:00+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:06:10+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:06:20+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:06:30+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:06:40+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:06:50+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:07:00+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:07:10+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:07:20+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:07:30+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:07:40+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:07:50+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:08:00+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:08:10+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:08:20+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:08:30+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:08:40+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:08:50+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:09:00+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:09:10+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:09:20+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:09:30+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:09:40+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:09:50+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:10:00+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:10:10+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:10:20+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:10:30+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:10:40+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:10:50+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:11:00+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:11:10+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:11:20+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:11:30+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:11:40+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:11:50+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:12:00+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:12:10+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:12:20+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:12:30+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:12:40+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:12:50+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:13:00+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:13:10+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:13:20+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:13:30+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:13:40+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:13:50+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:14:00+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:14:10+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:14:20+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:14:30+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:14:40+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:14:50+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:15:00+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:15:10+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:15:20+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:15:30+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:15:40+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:15:50+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:16:00+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:16:10+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:16:20+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:16:30+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:16:40+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:16:50+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:17:00+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:17:10+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:17:20+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:17:30+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:17:40+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:17:50+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:18:00+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:18:10+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:18:20+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:18:30+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:18:40+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:18:50+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:19:00+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:19:10+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:19:20+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:19:30+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:19:40+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:19:50+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:20:00+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:20:10+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:20:20+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:20:30+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:20:40+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:20:50+00:00,system,n_cpus,8,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:55:20+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:55:30+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:55:40+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:55:50+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:56:00+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:56:10+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:56:20+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:56:30+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:56:40+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:56:50+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:57:00+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:57:10+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:57:20+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:57:30+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:57:40+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:57:50+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:58:00+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:58:10+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:58:20+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:58:30+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:58:40+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:58:50+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:59:00+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:59:10+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:59:20+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:59:30+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:59:40+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:59:50+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:00:00+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:00:10+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:00:20+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:00:30+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:00:40+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:00:50+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:01:00+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:01:10+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:01:20+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:01:30+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:01:40+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:01:50+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:02:00+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:02:10+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:02:20+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:02:30+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:02:40+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:02:50+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:03:00+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:03:10+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:03:20+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:03:30+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:03:40+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:03:50+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:04:00+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:04:10+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:04:20+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:04:30+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:04:40+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:04:50+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:05:00+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:05:10+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:05:20+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:05:30+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:05:40+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:05:50+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:06:00+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:06:10+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:06:20+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:06:30+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:06:40+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:06:50+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:07:00+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:07:10+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:07:20+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:07:30+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:07:40+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:07:50+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:08:00+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:08:10+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:08:20+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:08:30+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:08:40+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:08:50+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:09:00+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:09:10+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:09:20+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:09:30+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:09:40+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:09:50+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:10:00+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:10:10+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:10:20+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:10:30+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:10:40+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:10:50+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:11:00+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:11:10+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:11:20+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:11:30+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:11:40+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:11:50+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:12:00+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:12:10+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:12:20+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:12:30+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:12:40+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:12:50+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:13:00+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:13:10+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:13:20+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:13:30+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:13:40+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:13:50+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:14:00+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:14:10+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:14:20+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:14:30+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:14:40+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:14:50+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:15:00+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:15:10+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:15:20+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:15:30+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:15:40+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:15:50+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:16:00+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:16:10+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:16:20+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:16:30+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:16:40+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:16:50+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:17:00+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:17:10+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:17:20+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:17:30+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:17:40+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:17:50+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:18:00+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:18:10+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:18:20+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:18:30+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:18:40+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:18:50+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:19:00+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:19:10+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:19:20+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:19:30+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:19:40+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:19:50+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:20:00+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:20:10+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:20:20+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:20:30+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:20:40+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:20:50+00:00,system,n_users,0,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:55:20+00:00,system,uptime,10693,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:55:30+00:00,system,uptime,10703,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:55:40+00:00,system,uptime,10713,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:55:50+00:00,system,uptime,10723,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:56:00+00:00,system,uptime,10733,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:56:10+00:00,system,uptime,10743,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:56:20+00:00,system,uptime,10753,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:56:30+00:00,system,uptime,10763,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:56:40+00:00,system,uptime,10773,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:56:50+00:00,system,uptime,10783,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:57:00+00:00,system,uptime,10793,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:57:10+00:00,system,uptime,10803,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:57:20+00:00,system,uptime,10813,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:57:30+00:00,system,uptime,10823,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:57:40+00:00,system,uptime,10833,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:57:50+00:00,system,uptime,10843,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:58:00+00:00,system,uptime,10853,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:58:10+00:00,system,uptime,10863,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:58:20+00:00,system,uptime,10873,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:58:30+00:00,system,uptime,10883,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:58:40+00:00,system,uptime,10893,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:58:50+00:00,system,uptime,10903,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:59:00+00:00,system,uptime,10913,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:59:10+00:00,system,uptime,10923,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:59:20+00:00,system,uptime,10933,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:59:30+00:00,system,uptime,10943,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:59:40+00:00,system,uptime,10953,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:59:50+00:00,system,uptime,10963,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:00:00+00:00,system,uptime,10973,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:00:10+00:00,system,uptime,10983,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:00:20+00:00,system,uptime,10993,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:00:30+00:00,system,uptime,11003,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:00:40+00:00,system,uptime,11013,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:00:50+00:00,system,uptime,11023,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:01:00+00:00,system,uptime,11033,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:01:10+00:00,system,uptime,11043,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:01:20+00:00,system,uptime,11053,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:01:30+00:00,system,uptime,11063,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:01:40+00:00,system,uptime,11073,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:01:50+00:00,system,uptime,11083,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:02:00+00:00,system,uptime,11093,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:02:10+00:00,system,uptime,11103,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:02:20+00:00,system,uptime,11113,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:02:30+00:00,system,uptime,11123,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:02:40+00:00,system,uptime,11133,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:02:50+00:00,system,uptime,11143,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:03:00+00:00,system,uptime,11153,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:03:10+00:00,system,uptime,11163,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:03:20+00:00,system,uptime,11173,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:03:30+00:00,system,uptime,11183,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:03:40+00:00,system,uptime,11193,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:03:50+00:00,system,uptime,11203,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:04:00+00:00,system,uptime,11213,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:04:10+00:00,system,uptime,11223,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:04:20+00:00,system,uptime,11233,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:04:30+00:00,system,uptime,11243,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:04:40+00:00,system,uptime,11253,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:04:50+00:00,system,uptime,11263,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:05:00+00:00,system,uptime,11273,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:05:10+00:00,system,uptime,11283,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:05:20+00:00,system,uptime,11293,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:05:30+00:00,system,uptime,11303,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:05:40+00:00,system,uptime,11313,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:05:50+00:00,system,uptime,11323,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:06:00+00:00,system,uptime,11333,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:06:10+00:00,system,uptime,11343,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:06:20+00:00,system,uptime,11353,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:06:30+00:00,system,uptime,11363,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:06:40+00:00,system,uptime,11373,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:06:50+00:00,system,uptime,11383,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:07:00+00:00,system,uptime,11393,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:07:10+00:00,system,uptime,11403,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:07:20+00:00,system,uptime,11413,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:07:30+00:00,system,uptime,11423,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:07:40+00:00,system,uptime,11433,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:07:50+00:00,system,uptime,11443,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:08:00+00:00,system,uptime,11453,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:08:10+00:00,system,uptime,11463,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:08:20+00:00,system,uptime,11473,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:08:30+00:00,system,uptime,11483,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:08:40+00:00,system,uptime,11493,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:08:50+00:00,system,uptime,11503,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:09:00+00:00,system,uptime,11513,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:09:10+00:00,system,uptime,11523,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:09:20+00:00,system,uptime,11533,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:09:30+00:00,system,uptime,11543,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:09:40+00:00,system,uptime,11553,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:09:50+00:00,system,uptime,11563,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:10:00+00:00,system,uptime,11573,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:10:10+00:00,system,uptime,11583,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:10:20+00:00,system,uptime,11593,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:10:30+00:00,system,uptime,11603,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:10:40+00:00,system,uptime,11613,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:10:50+00:00,system,uptime,11623,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:11:00+00:00,system,uptime,11633,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:11:10+00:00,system,uptime,11643,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:11:20+00:00,system,uptime,11653,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:11:30+00:00,system,uptime,11663,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:11:40+00:00,system,uptime,11673,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:11:50+00:00,system,uptime,11683,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:12:00+00:00,system,uptime,11693,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:12:10+00:00,system,uptime,11703,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:12:20+00:00,system,uptime,11713,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:12:30+00:00,system,uptime,11723,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:12:40+00:00,system,uptime,11733,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:12:50+00:00,system,uptime,11743,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:13:00+00:00,system,uptime,11753,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:13:10+00:00,system,uptime,11763,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:13:20+00:00,system,uptime,11773,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:13:30+00:00,system,uptime,11783,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:13:40+00:00,system,uptime,11793,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:13:50+00:00,system,uptime,11803,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:14:00+00:00,system,uptime,11813,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:14:10+00:00,system,uptime,11823,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:14:20+00:00,system,uptime,11833,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:14:30+00:00,system,uptime,11843,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:14:40+00:00,system,uptime,11853,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:14:50+00:00,system,uptime,11863,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:15:00+00:00,system,uptime,11873,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:15:10+00:00,system,uptime,11883,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:15:20+00:00,system,uptime,11893,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:15:30+00:00,system,uptime,11903,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:15:40+00:00,system,uptime,11913,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:15:50+00:00,system,uptime,11923,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:16:00+00:00,system,uptime,11933,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:16:10+00:00,system,uptime,11943,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:16:20+00:00,system,uptime,11953,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:16:30+00:00,system,uptime,11963,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:16:40+00:00,system,uptime,11973,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:16:50+00:00,system,uptime,11983,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:17:00+00:00,system,uptime,11993,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:17:10+00:00,system,uptime,12003,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:17:20+00:00,system,uptime,12013,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:17:30+00:00,system,uptime,12023,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:17:40+00:00,system,uptime,12033,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:17:50+00:00,system,uptime,12043,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:18:00+00:00,system,uptime,12053,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:18:10+00:00,system,uptime,12063,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:18:20+00:00,system,uptime,12073,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:18:30+00:00,system,uptime,12083,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:18:40+00:00,system,uptime,12093,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:18:50+00:00,system,uptime,12103,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:19:00+00:00,system,uptime,12113,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:19:10+00:00,system,uptime,12123,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:19:20+00:00,system,uptime,12133,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:19:30+00:00,system,uptime,12143,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:19:40+00:00,system,uptime,12153,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:19:50+00:00,system,uptime,12163,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:20:00+00:00,system,uptime,12173,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:20:10+00:00,system,uptime,12183,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:20:20+00:00,system,uptime,12193,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:20:30+00:00,system,uptime,12203,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:20:40+00:00,system,uptime,12213,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:20:50+00:00,system,uptime,12223,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:55:20+00:00,system,uptime_format, 2:58,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:55:30+00:00,system,uptime_format, 2:58,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:55:40+00:00,system,uptime_format, 2:58,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:55:50+00:00,system,uptime_format, 2:58,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:56:00+00:00,system,uptime_format, 2:58,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:56:10+00:00,system,uptime_format, 2:59,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:56:20+00:00,system,uptime_format, 2:59,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:56:30+00:00,system,uptime_format, 2:59,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:56:40+00:00,system,uptime_format, 2:59,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:56:50+00:00,system,uptime_format, 2:59,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:57:00+00:00,system,uptime_format, 2:59,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:57:10+00:00,system,uptime_format, 3:00,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:57:20+00:00,system,uptime_format, 3:00,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:57:30+00:00,system,uptime_format, 3:00,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:57:40+00:00,system,uptime_format, 3:00,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:57:50+00:00,system,uptime_format, 3:00,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:58:00+00:00,system,uptime_format, 3:00,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:58:10+00:00,system,uptime_format, 3:01,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:58:20+00:00,system,uptime_format, 3:01,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:58:30+00:00,system,uptime_format, 3:01,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:58:40+00:00,system,uptime_format, 3:01,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:58:50+00:00,system,uptime_format, 3:01,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:59:00+00:00,system,uptime_format, 3:01,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:59:10+00:00,system,uptime_format, 3:02,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:59:20+00:00,system,uptime_format, 3:02,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:59:30+00:00,system,uptime_format, 3:02,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:59:40+00:00,system,uptime_format, 3:02,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 12:59:50+00:00,system,uptime_format, 3:02,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:00:00+00:00,system,uptime_format, 3:02,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:00:10+00:00,system,uptime_format, 3:03,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:00:20+00:00,system,uptime_format, 3:03,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:00:30+00:00,system,uptime_format, 3:03,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:00:40+00:00,system,uptime_format, 3:03,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:00:50+00:00,system,uptime_format, 3:03,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:01:00+00:00,system,uptime_format, 3:03,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:01:10+00:00,system,uptime_format, 3:04,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:01:20+00:00,system,uptime_format, 3:04,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:01:30+00:00,system,uptime_format, 3:04,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:01:40+00:00,system,uptime_format, 3:04,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:01:50+00:00,system,uptime_format, 3:04,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:02:00+00:00,system,uptime_format, 3:04,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:02:10+00:00,system,uptime_format, 3:05,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:02:20+00:00,system,uptime_format, 3:05,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:02:30+00:00,system,uptime_format, 3:05,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:02:40+00:00,system,uptime_format, 3:05,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:02:50+00:00,system,uptime_format, 3:05,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:03:00+00:00,system,uptime_format, 3:05,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:03:10+00:00,system,uptime_format, 3:06,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:03:20+00:00,system,uptime_format, 3:06,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:03:30+00:00,system,uptime_format, 3:06,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:03:40+00:00,system,uptime_format, 3:06,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:03:50+00:00,system,uptime_format, 3:06,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:04:00+00:00,system,uptime_format, 3:06,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:04:10+00:00,system,uptime_format, 3:07,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:04:20+00:00,system,uptime_format, 3:07,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:04:30+00:00,system,uptime_format, 3:07,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:04:40+00:00,system,uptime_format, 3:07,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:04:50+00:00,system,uptime_format, 3:07,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:05:00+00:00,system,uptime_format, 3:07,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:05:10+00:00,system,uptime_format, 3:08,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:05:20+00:00,system,uptime_format, 3:08,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:05:30+00:00,system,uptime_format, 3:08,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:05:40+00:00,system,uptime_format, 3:08,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:05:50+00:00,system,uptime_format, 3:08,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:06:00+00:00,system,uptime_format, 3:08,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:06:10+00:00,system,uptime_format, 3:09,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:06:20+00:00,system,uptime_format, 3:09,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:06:30+00:00,system,uptime_format, 3:09,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:06:40+00:00,system,uptime_format, 3:09,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:06:50+00:00,system,uptime_format, 3:09,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:07:00+00:00,system,uptime_format, 3:09,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:07:10+00:00,system,uptime_format, 3:10,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:07:20+00:00,system,uptime_format, 3:10,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:07:30+00:00,system,uptime_format, 3:10,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:07:40+00:00,system,uptime_format, 3:10,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:07:50+00:00,system,uptime_format, 3:10,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:08:00+00:00,system,uptime_format, 3:10,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:08:10+00:00,system,uptime_format, 3:11,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:08:20+00:00,system,uptime_format, 3:11,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:08:30+00:00,system,uptime_format, 3:11,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:08:40+00:00,system,uptime_format, 3:11,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:08:50+00:00,system,uptime_format, 3:11,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:09:00+00:00,system,uptime_format, 3:11,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:09:10+00:00,system,uptime_format, 3:12,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:09:20+00:00,system,uptime_format, 3:12,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:09:30+00:00,system,uptime_format, 3:12,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:09:40+00:00,system,uptime_format, 3:12,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:09:50+00:00,system,uptime_format, 3:12,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:10:00+00:00,system,uptime_format, 3:12,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:10:10+00:00,system,uptime_format, 3:13,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:10:20+00:00,system,uptime_format, 3:13,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:10:30+00:00,system,uptime_format, 3:13,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:10:40+00:00,system,uptime_format, 3:13,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:10:50+00:00,system,uptime_format, 3:13,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:11:00+00:00,system,uptime_format, 3:13,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:11:10+00:00,system,uptime_format, 3:14,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:11:20+00:00,system,uptime_format, 3:14,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:11:30+00:00,system,uptime_format, 3:14,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:11:40+00:00,system,uptime_format, 3:14,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:11:50+00:00,system,uptime_format, 3:14,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:12:00+00:00,system,uptime_format, 3:14,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:12:10+00:00,system,uptime_format, 3:15,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:12:20+00:00,system,uptime_format, 3:15,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:12:30+00:00,system,uptime_format, 3:15,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:12:40+00:00,system,uptime_format, 3:15,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:12:50+00:00,system,uptime_format, 3:15,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:13:00+00:00,system,uptime_format, 3:15,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:13:10+00:00,system,uptime_format, 3:16,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:13:20+00:00,system,uptime_format, 3:16,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:13:30+00:00,system,uptime_format, 3:16,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:13:40+00:00,system,uptime_format, 3:16,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:13:50+00:00,system,uptime_format, 3:16,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:14:00+00:00,system,uptime_format, 3:16,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:14:10+00:00,system,uptime_format, 3:17,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:14:20+00:00,system,uptime_format, 3:17,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:14:30+00:00,system,uptime_format, 3:17,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:14:40+00:00,system,uptime_format, 3:17,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:14:50+00:00,system,uptime_format, 3:17,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:15:00+00:00,system,uptime_format, 3:17,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:15:10+00:00,system,uptime_format, 3:18,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:15:20+00:00,system,uptime_format, 3:18,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:15:30+00:00,system,uptime_format, 3:18,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:15:40+00:00,system,uptime_format, 3:18,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:15:50+00:00,system,uptime_format, 3:18,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:16:00+00:00,system,uptime_format, 3:18,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:16:10+00:00,system,uptime_format, 3:19,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:16:20+00:00,system,uptime_format, 3:19,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:16:30+00:00,system,uptime_format, 3:19,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:16:40+00:00,system,uptime_format, 3:19,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:16:50+00:00,system,uptime_format, 3:19,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:17:00+00:00,system,uptime_format, 3:19,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:17:10+00:00,system,uptime_format, 3:20,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:17:20+00:00,system,uptime_format, 3:20,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:17:30+00:00,system,uptime_format, 3:20,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:17:40+00:00,system,uptime_format, 3:20,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:17:50+00:00,system,uptime_format, 3:20,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:18:00+00:00,system,uptime_format, 3:20,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:18:10+00:00,system,uptime_format, 3:21,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:18:20+00:00,system,uptime_format, 3:21,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:18:30+00:00,system,uptime_format, 3:21,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:18:40+00:00,system,uptime_format, 3:21,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:18:50+00:00,system,uptime_format, 3:21,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:19:00+00:00,system,uptime_format, 3:21,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:19:10+00:00,system,uptime_format, 3:22,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:19:20+00:00,system,uptime_format, 3:22,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:19:30+00:00,system,uptime_format, 3:22,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:19:40+00:00,system,uptime_format, 3:22,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:19:50+00:00,system,uptime_format, 3:22,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:20:00+00:00,system,uptime_format, 3:22,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:20:10+00:00,system,uptime_format, 3:23,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:20:20+00:00,system,uptime_format, 3:23,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:20:30+00:00,system,uptime_format, 3:23,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:20:40+00:00,system,uptime_format, 3:23,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT
+2026-08-07 13:20:50+00:00,system,uptime_format, 3:23,dbms,clickbench,postgresql-indexed-citus-load-1-iteration,1,ip-172-31-28-128,olap,benchANT

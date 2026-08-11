@@ -1,0 +1,53 @@
+========================================================
+=== ClickBench PostgreSQL Load
+=== Started : Thu Aug  6 10:49:44 UTC 2026
+========================================================
+
+    Host     : 18.198.188.106:5432
+    Database : benchantdb
+
+--- Dropping existing hits table (if any) ---
+NOTICE:  table "hits" does not exist, skipping
+DROP TABLE
+[DONE]  DROP TABLE IF EXISTS hits
+
+--- Creating schema ---
+CREATE TABLE
+ANALYZE
+[DONE]  Schema created
+
+--- Loading data ---
+[LOAD]  hits <- hits.csv.gz (started: Thu Aug  6 10:49:46 UTC 2026)
+BEGIN
+TRUNCATE TABLE
+COPY 99997497
+COMMIT
+[DONE]  Data loaded (finished: Thu Aug  6 11:13:40 UTC 2026)
+
+--- Running VACUUM ANALYZE ---
+VACUUM
+[DONE]  VACUUM ANALYZE
+
+--- PostgreSQL version ---
+ PostgreSQL 17.10 (Ubuntu 17.10-1.pgdg22.04+1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, 64-bit
+
+
+--- Installed extensions ---
+      name      | default_version | installed_version |           comment            
+----------------+-----------------+-------------------+------------------------------
+ citus          | 14.0-1          | 14.0-1            | Citus distributed database
+ citus_columnar | 14.0-1          | 14.0-1            | Citus Columnar extension
+ plpgsql        | 1.0             | 1.0               | PL/pgSQL procedural language
+(3 rows)
+
+
+--- Indexes on hits table ---
+ indexname |                                                  indexdef                                                   
+-----------+-------------------------------------------------------------------------------------------------------------
+ hits_pkey | CREATE UNIQUE INDEX hits_pkey ON public.hits USING btree (counterid, eventdate, userid, eventtime, watchid)
+(1 row)
+
+
+========================================================
+=== Load complete : Thu Aug  6 11:16:44 UTC 2026
+========================================================

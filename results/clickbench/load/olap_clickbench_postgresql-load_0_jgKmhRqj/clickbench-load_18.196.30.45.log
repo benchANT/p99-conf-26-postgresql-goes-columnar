@@ -1,0 +1,8 @@
+NOTICE:  table "hits" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+BEGIN
+TRUNCATE TABLE
+COPY 99997497
+COMMIT
+VACUUM

@@ -1,0 +1,50 @@
+========================================================
+=== ClickBench PostgreSQL Load
+=== Started : Sun May 17 20:28:12 UTC 2026
+========================================================
+
+    Host     : 3.68.183.71:5432
+    Database : benchantdb
+
+--- Dropping existing hits table (if any) ---
+NOTICE:  table "hits" does not exist, skipping
+DROP TABLE
+[DONE]  DROP TABLE IF EXISTS hits
+
+--- Creating schema ---
+CREATE TABLE
+[DONE]  Schema created
+
+--- Loading data ---
+[LOAD]  hits <- hits.csv.gz (started: Sun May 17 20:28:14 UTC 2026)
+BEGIN
+TRUNCATE TABLE
+COPY 99997497
+COMMIT
+[DONE]  Data loaded (finished: Sun May 17 20:51:07 UTC 2026)
+
+--- Running VACUUM ANALYZE ---
+VACUUM
+[DONE]  VACUUM ANALYZE
+
+--- PostgreSQL version ---
+ PostgreSQL 17.10 (Ubuntu 17.10-1.pgdg22.04+1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, 64-bit
+
+
+--- Installed extensions ---
+   name    | default_version | installed_version |           comment            
+-----------+-----------------+-------------------+------------------------------
+ pg_duckdb | 1.1.0           | 1.1.0             | DuckDB Embedded in Postgres
+ plpgsql   | 1.0             | 1.0               | PL/pgSQL procedural language
+(2 rows)
+
+
+--- Indexes on hits table ---
+ indexname | indexdef 
+-----------+----------
+(0 rows)
+
+
+========================================================
+=== Load complete : Sun May 17 20:51:39 UTC 2026
+========================================================
